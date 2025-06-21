@@ -3,7 +3,7 @@ How to Download Nord Pass on All Your Devices Easily
 
 NordPass is a powerful, user-friendly password manager that helps you store and manage all of your passwords securely in one place. With NordPass, you can save time, improve your security, and reduce the risk of online threats. This document provides a detailed guide on how to download NordPass, its system requirements, features, and installation process.
 
-.. image:: click-download.gif
+.. image:: download.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
